@@ -1,12 +1,5 @@
 # KELOMPOK 9 - ADW 
-
-## Annisa Cahyani Surya
-
-## Adisty Syawalda Ariyanto
-
-## Leonard Andreas Napitulu
-
-## Ryantoni Sihaloho
+## Model ARCH untuk Prediksi Harga Saham Bank BCA: Studi Kasus Periode Januari 2013 - November 2023
 
 # Import Library 
 ```{r}

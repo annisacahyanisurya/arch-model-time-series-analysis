@@ -17,7 +17,9 @@ Data harga saham Bank BCA yang diperoleh dari Yahoo Finance dengan detail beriku
 
 ## 📑 Conclusion
 
-<img src="prediction_result.png" width="400">
+<p align="center">
+  <img src="prediction_result.png" width="500">
+</p>
 
 Pendekatan awal menggunakan ARIMA(0,1,2) menunjukkan adanya heteroskedastisitas, sehingga model tersebut kurang sesuai untuk memodelkan volatilitas. Model ARCH(8) kemudian dipilih karena memberikan performa terbaik berdasarkan nilai AIC dan BIC.
 

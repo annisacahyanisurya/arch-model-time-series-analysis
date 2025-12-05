@@ -17,8 +17,7 @@ Pendekatan awal menggunakan ARIMA(0,1,2) menunjukkan adanya heteroskedastisitas,
 
 Hasil pemodelan menunjukkan bahwa volatilitas harga saham Bank BCA pada 1 Desember 2023 berada pada tingkat yang cukup tinggi. Tingginya volatilitas—yang direpresentasikan oleh standar deviasi yang besar—mengindikasikan meningkatnya risiko pergerakan harga. Dengan demikian, prediksi volatilitas tersebut memberi sinyal bahwa saham BCA pada periode tersebut berada dalam kondisi pasar yang relatif berisiko bagi investor.
 
-Detail analisis dapat ditemukan pada paper lengkap di tautan berikut:
-https://ojs3.unpatti.ac.id/index.php/variance/article/view/13026/11831
+Detail analisis dapat ditemukan pada paper lengkap di tautan berikut: https://ojs3.unpatti.ac.id/index.php/variance/article/view/13026
 
 ### 🛠 Prerequisites
 Sebelum menjalankan kode analysis ini pastikan beberapa hal berikut sudah terinstall: 
